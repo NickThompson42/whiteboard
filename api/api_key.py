@@ -1,0 +1,1 @@
+windy_ApiKey = 'kyYZ8FTpKtoatC5fqEiiNNiBh1CIY4zW'
